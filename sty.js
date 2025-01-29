@@ -3312,14 +3312,14 @@
     "category": "Malay",
     "info": {
               "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp",
-              "plot": "",
+              "plot": "ADAPTASI DARI NOVEL",
               "director": ["Eyra Rahman"], 
               "cast": [" Shukri Yahya,  Mira Filza,  Sharifah Sakinah"],
               "year": "2024"
              },
     "seasons": [
         {
-          "name": "Ccurang Tanpa Niat",
+          "name": "Curang Tanpa Niat",
           "info": {
                     "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp",
                     "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
