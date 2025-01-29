@@ -3306,8 +3306,8 @@
             ]
         }
     ]
-},
-{
+ },
+ {
     "name": "Curang Tanpa Niat",
     "category": "Malay",
     "info": {
