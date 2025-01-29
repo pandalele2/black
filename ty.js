@@ -14,8 +14,7 @@
               "year": "2024"
              },
     "seasons": [
-        {
-          "season": "Curang Tanpa Niat",
+      {
           "name": "Curang Tanpa Niat",
           "info": {
                     "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp",
