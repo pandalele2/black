@@ -11,7 +11,7 @@
              },
     "seasons": [
         {
-          "season": curang-tanpa-niat-1,
+          "seasons": Curang Tanpa Niat s1,
           "name": "Curang Tanpa Niat",
           "info": {
                     "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp",
