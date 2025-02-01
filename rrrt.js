@@ -3379,8 +3379,8 @@
             ]
         }
     ]
- },
- {
+},
+{
     "name": "BoBoiBoy",
     "category": "Kids",
     "info": {
