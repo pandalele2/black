@@ -50,7 +50,7 @@
            "drm": "clearkey", 
            "drmkey": "72c178b163affecbbafbdc77fae0ad10:048552f270958a9f359181a26a652ea9"
  }, 
- }
+ {
   "name": "Back in Action 2025", 
   "category": "Action",
   "info": { 
