@@ -51,7 +51,7 @@
            "drmkey": "72c178b163affecbbafbdc77fae0ad10:048552f270958a9f359181a26a652ea9"
  }, 
  }
-  "name": "Back in Action (2025)", 
+  "name": "Back in Action 2025", 
   "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg", 
@@ -59,7 +59,7 @@
            "plot": "Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed.", 
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg", 
            "director": ["Seth Gordon"], 
-           "cast": ["Cameron Diaz, Jamie Foxx, Glenn Close, Leela Owen, McKenna Roberts, Kyle Chandler7, Andrew Scott, Jamie Demetriou, Rylan Jackson"],
+           "cast": ["Cameron Diazz,Jamie Foxx,Glenn Close,Leela Owen,McKenna Roberts,Kyle Chandler7,Andrew Scott,Jamie Demetriou,Rylan Jackson"],
            "year": "2025"
            }, 
            "video": "https://banv25705-2d12.banv25705.workers.dev/0:/biac.mp4", 
