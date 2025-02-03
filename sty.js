@@ -210,6 +210,22 @@
            "drmkey": "b805927e21e0c9af86812cd4663a5810:192c6f477ddec989a74b63947deff4be"
  }, 
  {        
+  "name": "Back in Action", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Seth Gordon"], 
+           "cast": ["Cameron Diazz,Jamie Foxx,Glenn Close,Leela Owen,McKenna Roberts,Kyle Chandler7,Andrew Scott,Jamie Demetriou,Rylan Jackson"],
+           "year": "2025"
+           }, 
+           "video": "https://banv25705-2d12.banv25705.workers.dev/0:/biac.mp4", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
   "name": "The Conjuring", 
   "category": "Horror",
   "info": { 
