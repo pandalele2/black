@@ -3374,6 +3374,359 @@
                     "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn2.mp4", 
                     "drm": "clearkey", 
                     "drmkey": ""
+                 },
+               {
+                    "episode": 3,
+                    "name": "EPISODE  3",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn3.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 4,
+                    "name": "EPISODE  4",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn4.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 5,
+                    "name": "EPISODE  5",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn5.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 6,
+                    "name": "EPISODE  6",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn6.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 7,
+                    "name": "EPISODE  7",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn7.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 8,
+                    "name": "EPISODE  8",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn8.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 9,
+                    "name": "EPISODE  9",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn9.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 10,
+                    "name": "EPISODE  10",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn10.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 11,
+                    "name": "EPISODE  11",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn11.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 12,
+                    "name": "EPISODE  12",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn12.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 13,
+                    "name": "EPISODE  13",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn13.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 14,
+                    "name": "EPISODE  14",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn14.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 15,
+                    "name": "EPISODE  15",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn15.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 16,
+                    "name": "EPISODE  16",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn16.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 17,
+                    "name": "EPISODE  17",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn17.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 18,
+                    "name": "EPISODE  18",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn18.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 19,
+                    "name": "EPISODE  19",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn19.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 20,
+                    "name": "EPISODE  20",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn20.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 21,
+                    "name": "EPISODE  21",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn21.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 22,
+                    "name": "EPISODE  22",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn22.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 23,
+                    "name": "EPISODE  23",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn23.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+                 },
+               {
+                    "episode": 24,
+                    "name": "EPISODE  24",
+                    "info": {
+                            "poster": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "bg": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "plot": "Kisah Pergelutan Seorang Isteri Bernama Elina dalam Mengharungi Ketidaksetiaan dan Kecurangan suaminya, Eshaal di tempat kerja.",
+                            "backdrop": "https://ecentral.my/wp-content/uploads/2024/12/curang-tanpa-niat-1.webp", 
+                            "director": ["Eyra Rahman"], 
+                            "cast": [" Shukri Yahya,  Mira Filzah,  Sharifah Sakinah"],
+                            "year": "2024"
+                           },
+                    "video": "https://dikv9338-e051.dikv9338.workers.dev/0:/ctn24.mp4", 
+                    "drm": "clearkey", 
+                    "drmkey": ""
+
               }
             ]
         }      
