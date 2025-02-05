@@ -883,7 +883,7 @@
            "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
            "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi.", 
-           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KIGRF_IVP_LAND_917x516.jpg", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
            "director": ["Kôichi Sakamoto"], 
            "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
            "year": "2022"
