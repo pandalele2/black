@@ -875,13 +875,29 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8dab1e77-adcd-51d9-845a-71cd12a46aa6/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7"
+  },  
+  {        
+  "name": "Ultra Galaxy Fight: The Destined Crossroad", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
+           "plot": "Pasukan pakar GUTS-Select menyiasat tetapi menghadapi serangan daripada tentera asing dan kubu mudah alih yang gelap gulita, Zorgaus, yang dipandu oleh Profesor Gibellus yang berusaha untuk memerintah langit Bumi.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/KIGRF_IVP_LAND_917x516.jpg", 
+           "director": ["Kôichi Sakamoto"], 
+           "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
+           "year": "2022"
+            }, 
+           "video": "https://cdn3.turboviplay.cc/data1/67908c7287fd0/67908c7287fd0720.m3u8", 
+           "drm": "clearkey", 
+           "drmkey": ""
  },
  {        
   "name": "12.12: The Day", 
   "category": "Action",
   "info": { 
-           "poster": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL100_UX500.jpg", 
+           "poster": "https://m.media-amazon.com/ijMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
            "plot": "Selepas pembunuhan Presiden Park, undang-undang ketenteraan diisytiharkan. Rampasan kuasa dilakukan oleh Komander Keselamatan Pertahanan, Chun Doo-Gwang. Ketua Komander Pertahanan, Lee Tae-shin, seorang yang ketegar percaya bahawa pihak tentera tidak sepatutnya mengambil tindakan politik, bangkit menentang Chun Doo-Gwang. Konflik antara kedua pihak semakin meruncing menyebabkan Seoul dalam keadaan yang tidak menentu.", 
            "backdrop": "https://linear-poster.astro.com.my/prod/poster/KMOUX_IVP_LAND_917x516.jpg", 
            "director": ["Kim Sung-Soo"], 
