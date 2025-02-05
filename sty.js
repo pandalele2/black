@@ -877,15 +877,15 @@
            "drmkey": "f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7"
   },  
   {        
-  "name": "Ultra Galaxy Fight: The Destined Crossroad", 
+  "name": "Sonic the Hedgehog 3", 
   "category": "Kids",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BS00YzRlLWE1ZjItNWE5ODQ2ZDdlMjI4XkEyXkFqcGc@._V1_QL100_UX700_.jpg", 
            "plot": "Sonic, Knuckles and Tails reunite to battle Shadow, a mysterious new enemy with powers unlike anything they've faced before. With their abilities outmatched in every way, they seek out an unlikely alliance to stop Shadow and protect the planet.", 
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-           "director": ["Kôichi Sakamoto"], 
-           "cast": ["Jun'ichi Suwabe","Zhen Zhao","Tatsuomi Hamada"],
+           "director": ["Jeff Fowler"], 
+           "cast": ["Jim Carrey","Ben Schwartz","Krysten Ritter"],
            "year": "2024"
             }, 
            "video": "https://cdn3.turboviplay.cc/data1/67908c7287fd0/67908c7287fd0720.m3u8", 
