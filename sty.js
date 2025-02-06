@@ -26,7 +26,7 @@
            "backdrop": "https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
            "director": ["Christopher Mcquarrie"], 
            "cast": ["Tom Cruise","Rebecca Ferguson","Hayley Atwell","Ving Rhames","Simon Pegg"],
-           "trailer": "avz06PDqDbM",
+           "trailer": "MPuIKEaw1Ag",
            "year": "2023"
             }, 
            "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/660f681bd940521074fa821f_hbovodhd/dash0/MYS_DOLBY_index.mpd", 
