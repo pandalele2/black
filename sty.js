@@ -914,7 +914,7 @@
   "category": "Action",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
-           "bg": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "plot": "Selepas pembunuhan Presiden Park, undang-undang ketenteraan diisytiharkan. Rampasan kuasa dilakukan oleh Komander Keselamatan Pertahanan, Chun Doo-Gwang. Ketua Komander Pertahanan, Lee Tae-shin, seorang yang ketegar percaya bahawa pihak tentera tidak sepatutnya mengambil tindakan politik, bangkit menentang Chun Doo-Gwang. Konflik antara kedua pihak semakin meruncing menyebabkan Seoul dalam keadaan yang tidak menentu.", 
            "backdrop": "https://m.media-amazon.com/images/M/MV5BMTZmMTMyMDMtNDA2Mi00ZjU5LTljMjYtYjg3NmVmMDQ5NmQ2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
            "director": ["Kim Sung-Soo"], 
