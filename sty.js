@@ -892,8 +892,8 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8dab1e77-adcd-51d9-845a-71cd12a46aa6/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7"
-  },  
-  {        
+ },  
+ {        
   "name": "Sonic the Hedgehog 3", 
   "category": "Kids",
   "info": { 
