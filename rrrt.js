@@ -4845,8 +4845,8 @@
           "season": 4,
           "name": "BoBoiBoy Galaxy Gentar",
           "info": {
-                    "poster": "https://m.media-amazon.com/images/M/MV5BZTIxODdkNzItNWM1NC00NWJmLWIzZWYtNjRkOTBlMDk2ZmQzXkEyXkFqcGc@._V1_QL100_UX550_.jpg",
-                    "backdrop": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                    "poster": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id",
+                    "backdrop": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
                     "director": ["Nizam Razak"], 
                     "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
                     "year": "2024"
