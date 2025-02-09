@@ -4840,6 +4840,83 @@
                    "drmkey": "9d74488c2623b3ebd365dc161167d510:f224cd151a0a3c523810b639a4546495"
                  }
             ]
+        },
+        {
+          "season": 4,
+          "name": "BoBoiBoy Galaxy Gentar",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BZTIxODdkNzItNWM1NC00NWJmLWIzZWYtNjRkOTBlMDk2ZmQzXkEyXkFqcGc@._V1_QL100_UX550_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BOGI2YWM2OWMtMjUyMC00NGI3LWI1YmEtNzhkODgyYjdhYmJlXkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+                    "director": ["Nizam Razak"], 
+                    "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                    "year": "2024"
+                    },
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "BoBoiBoy Galaxy Gentar",
+                   "info": {
+                           "poster": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "bg": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "plot": "Dalam perjalanan untuk mendapatkan maklumat tentang Panglima Pyrapi, BoBoiBoy dan rakan-rakan menerima isyarat kecemasan dari kilang robot NuBot. Di sana, BoBoiBoy, Gopal, Qually dan Ochobot berdepan dengan musuh baharu yang tak disangka-sangka yang memaksa BoBoiBoy menggunakan kuasa fusion baharu, BoBoiBoy Gentar!",
+                           "backdrop": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://tmun47542-8695.tmun47542.workers.dev/0:/bg1.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 }, 
+              {
+                   "episode": 2,
+                   "name": "BoBoiBoy Galaxy Gentar",
+                   "info": {
+                           "poster": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "bg": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "plot": "Dalam perjalanan untuk mendapatkan maklumat tentang Panglima Pyrapi, BoBoiBoy dan rakan-rakan menerima isyarat kecemasan dari kilang robot NuBot. Di sana, BoBoiBoy, Gopal, Qually dan Ochobot berdepan dengan musuh baharu yang tak disangka-sangka yang memaksa BoBoiBoy menggunakan kuasa fusion baharu, BoBoiBoy Gentar!",
+                           "backdrop": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://tmun47542-8695.tmun47542.workers.dev/0:/bg2.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+              {
+                   "episode": 3,
+                   "name": "BoBoiBoy Galaxy Gentar",
+                   "info": {
+                           "poster": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "bg": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "plot": "Dalam perjalanan untuk mendapatkan maklumat tentang Panglima Pyrapi, BoBoiBoy dan rakan-rakan menerima isyarat kecemasan dari kilang robot NuBot. Di sana, BoBoiBoy, Gopal, Qually dan Ochobot berdepan dengan musuh baharu yang tak disangka-sangka yang memaksa BoBoiBoy menggunakan kuasa fusion baharu, BoBoiBoy Gentar!",
+                           "backdrop": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://tmun47542-8695.tmun47542.workers.dev/0:/bg3.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 },
+              {
+                   "episode": 4,
+                   "name": "BoBoiBoy Galaxy Gentar",
+                   "info": {
+                           "poster": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "bg": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "plot": "Dalam perjalanan untuk mendapatkan maklumat tentang Panglima Pyrapi, BoBoiBoy dan rakan-rakan menerima isyarat kecemasan dari kilang robot NuBot. Di sana, BoBoiBoy, Gopal, Qually dan Ochobot berdepan dengan musuh baharu yang tak disangka-sangka yang memaksa BoBoiBoy menggunakan kuasa fusion baharu, BoBoiBoy Gentar!",
+                           "backdrop": "https://static.wikia.nocookie.net/boboiboy/images/a/a5/Poster_BoBoiBoy_Galaxy_Gentar.jpg/revision/latest?cb=20241116131406&path-prefix=id", 
+                           "director": ["Nizam Razak"], 
+                           "cast": ["Nurfathiah Diaz","Nur Sarah Alisya Zainal Rashid","Yap Ee Jean","Dzubir Mohammed Zakaria"],
+                           "year": "2024"
+                          },
+                   "video": "https://tmun47542-8695.tmun47542.workers.dev/0:/bg4.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                 }
+            ]
         }
     ]
 },
