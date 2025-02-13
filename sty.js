@@ -905,7 +905,7 @@
            "cast": ["Jim Carrey","Ben Schwartz","Krysten Ritter"],
            "year": "2024"
             }, 
-           "video": "https://cdn3.turboviplay.cc/data1/67908c7287fd0/67908c7287fd0720.m3u8", 
+           "video": "https://masam20.com/Emi/39.mp4", 
            "drm": "clearkey", 
            "drmkey": ""
  },
