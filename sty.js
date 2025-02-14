@@ -892,6 +892,23 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8dab1e77-adcd-51d9-845a-71cd12a46aa6/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7"
+ },
+ {        
+  "name": "Moana 2", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "plot": "Moana journeys to the far seas of Oceania after receiving an unexpected call from her wayfinding ancestors.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "director": ["Roland Emmerich"], 
+           "cast": ["Dwayne Johnson","Awhimai Fraser","Nicole Scherzinger"],
+           "trailer": "hDZ7y8RP5HE",
+           "year": "2024"
+            }, 
+           "video": "https://atituttaaadf3k.nuratiqh7.workers.dev/0:/mona2.mp4", 
+           "drm": "clearkey", 
+           "drmkey": ""
  },  
  {        
   "name": "Sonic the Hedgehog 3", 
