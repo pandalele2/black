@@ -11,7 +11,7 @@
            "cast": ["Sabri Yunus,Aziz M. Osman,Bell Ngasri,Arab Khalid,Tj Isa,Sharwani Ns"],
            "trailer": "nw2roBPsbyU",
            "genre": ["Action"], 
-           "time": ["1h 25m"], 
+           "time": "1h 25m" 
            "year": "2017"
             }, 
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd", 
