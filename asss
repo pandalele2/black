@@ -686,6 +686,22 @@
            "drmkey": "8f35c8959930b6df896b6b76a54d6b10:bfcdfc1adeb3b8c7d3723d08c9740701"
  }, 
  {        
+  "name": "Mufasa: The Lion King", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BYjJlMDgyZjEtMTA2ZC00ZjE3LWJkYzItMmM2MDFmNTJhOWRiXkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BYjJlMDgyZjEtMTA2ZC00ZjE3LWJkYzItMmM2MDFmNTJhOWRiXkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Lost and alone, orphaned cub Mufasa meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of an extraordinary group of misfits searching for their destinies.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BYjJlMDgyZjEtMTA2ZC00ZjE3LWJkYzItMmM2MDFmNTJhOWRiXkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Barry Jenkins"], 
+           "cast": ["Aaron Pierre,Blue Ivy Carter,Mads Mikkelsen"],
+           "year": "2024"
+            }, 
+           "video": "https://atituttaaadf3k.nuratiqh7.workers.dev/0:/musafa.mp4", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
   "name": "Hotel Transylvania ", 
   "category": "Kids",
   "info": { 
