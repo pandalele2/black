@@ -51,6 +51,42 @@
            "drmkey": "edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02"
  }, 
  {        
+  "name": "Marco", 
+  "category": "Special Request",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZTI5MzU0M2QtZDIzOS00ODI2LTk0MmEtMDdkODU4ZTY0MWZmXkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZTI5MzU0M2QtZDIzOS00ODI2LTk0MmEtMDdkODU4ZTY0MWZmXkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Adattu is one of the most renowned gold-trading families in Kerala. Unexpectedly, an incident shakes the Adattu family. George, the head of the family, sets out to uncover the truth and find those responsible. At the same time, his younger brother, Marco, embarks on the same quest but through a different Path.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BZTI5MzU0M2QtZDIzOS00ODI2LTk0MmEtMDdkODU4ZTY0MWZmXkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Haneef Adeni"], 
+           "cast": ["Unni Mukundan","Kabir Duhan Singh","Yukti Thareja"],
+           "trailer": "uc3mlFD-lFQ",
+           "genre": ["Action"],
+           "year": "2024"
+            }, 
+           "video": "https://coco99.org/coco/new2/1226.mp4",
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
+  "name": "MAX", 
+  "category": "Special Request",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNzQ4MjBiODEtMGVmZS00M2IxLWEzNWUtZmI3Y2VjMTdlYTUxXkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNzQ4MjBiODEtMGVmZS00M2IxLWEzNWUtZmI3Y2VjMTdlYTUxXkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Inspector Arjun Mahakshay, law and order inspector reports to duty at a new police station after a two-months suspension and faces an unexpected situation.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzQ4MjBiODEtMGVmZS00M2IxLWEzNWUtZmI3Y2VjMTdlYTUxXkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Vijay Karthikeyan"], 
+           "cast": ["Kiccha Sudeep","Sukrutha Wagle","Varalaxmi Sarathkumar"],
+           "trailer": "jgUtOlged-c",
+           "genre": ["Action"],
+           "year": "2024"
+            }, 
+           "video": "https://coco99.org/coco/new2/1227.mp4",
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
   "name": "300", 
   "category": "Action",
   "info": { 
