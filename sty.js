@@ -703,8 +703,24 @@
            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c3a16fa9-d661-586b-ae91-99dda098bb0c/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "543923a5e469b0ae2d13fcd1afb39010:a771acc70a260f44e509d35da93a1cac"
- }, 
+}, 
 {        
+  "name": "Mechamato Movie", 
+  "category": "Kids",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNmJiYWY4NzgtYmE1OC00ZTgxLWFiZTEtNGVhMmE1Mjc1ZmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmJiYWY4NzgtYmE1OC00ZTgxLWFiZTEtNGVhMmE1Mjc1ZmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "plot": "Amato outsmarts MechaBot and becomes its master, allowing him to use its unique ability to mechanize everyday objects into high-tech devices.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmJiYWY4NzgtYmE1OC00ZTgxLWFiZTEtNGVhMmE1Mjc1ZmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "director": ["Nizam Abdul Razak"], 
+           "cast": ["Armand Ezra,  Adzlan Nazir,  Ielham Iskandar"],
+           "year": "2022"
+            }, 
+           "video": "https://coco99.org/coco/new1/555232.mp4", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ },  
+ {    
   "name": "BoBoiBoy Movie", 
   "category": "Kids",
   "info": { 
