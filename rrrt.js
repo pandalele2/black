@@ -29,7 +29,7 @@
            "trailer": "UrIbxk7idYA",
            "year": "2007"
             }, 
-           "video": "https://get.perfecttv.net/voddrama.mpd?channel=seributahunE1&username=perfecttv&password=perfecttv", 
+           "video": "https://get.perfecttv.net/voddrama.mpd?channel=dimamkue15&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDE3OTY0MzMsImlzcyI6IlZSIiwiZXhwIjoxNzQxODI1MjMzLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQ0ZjA3ZjQtN2Y5Ny00ZTRmLTlkOTgtMDZlMjNmY2YyNjcyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.UWdLsDtsdKPctoAfP4Vdot9KoToDtQ17c6Y7Rw6YAuw", 
            "drm": "clearkey", 
            "drmkey": "cacbcf90e3e85f93b602967c56a11265:01a05cf6205076588b2b7a72ffd2a402"
  }, 
