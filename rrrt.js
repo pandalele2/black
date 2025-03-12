@@ -17,6 +17,23 @@
            "drmkey": "6a5580676416fb8b215e23638ddcd610:07ff72561ad9723e01be293effdd6b8d"
  }, 
  {        
+  "name": "test", 
+  "category": "Action",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOGZhNDJlY2EtNDE0YS00NzNlLWEzMjktZWE2ZTM2NDljODU2XkEyXkFqcGc@._V1_QL100_UX500_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOGZhNDJlY2EtNDE0YS00NzNlLWEzMjktZWE2ZTM2NDljODU2XkEyXkFqcGc@._V1_QL100_UX550_.jpg", 
+           "plot": "Berdasarkan novel grafik paling laris oleh Frank Miller, 300 menceritakan kisah Raja Leonidas dan 300 pahlawan Sparta. Semasa tahun 400 sebelum Masihi, segerombolan tentera Parsi menuju ke Greece. Mereka menyediakan kata dua kepada penduduk Greece: berkhidmat kepada raja Parsi atau berdepan penghapusan habis-habisan. Sebuah kumpulan kecil 300 pejuang yang diketuai oleh raja Sparta berjaya melakukan sesuatu yang mustahil dan bangkit berdepan penindas dalam penghasilan kesan khas yang menarik ini.", 
+           "backdrop": "https://linear-poster.astro.com.my/prod/poster/ITNJV_IVP_LAND_917x516.jpg", 
+           "director": ["Zack Snyder"], 
+           "cast": ["Gerard Butler","Lena Headey","David Wenham","Dominic West","Vincent Regan","Michael Fassbender","Tom Wisdom","Andrew Pleaviin","Andrew Tiernan","Rodrigo Santoro","Peter Mensah","Stephen Mchattie"],
+           "trailer": "UrIbxk7idYA",
+           "year": "2007"
+            }, 
+           "video": "https://get.perfecttv.net/voddrama.mpd?channel=seributahunE1&username=perfecttv&password=perfecttv", 
+           "drm": "clearkey", 
+           "drmkey": "cacbcf90e3e85f93b602967c56a11265:01a05cf6205076588b2b7a72ffd2a402"
+ }, 
+ {        
   "name": "17 Puasa", 
   "category": "Comedy",
   "info": { 
