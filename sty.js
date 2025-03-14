@@ -50,6 +50,24 @@
            "drm": "clearkey", 
            "drmkey": "edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02"
  }, 
+ {      
+  "name": "Wanita Ahli Neraka", 
+  "category": "Special Request",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOWUyZTNjMmQtM2ZjOS00Mzc1LTgzZTEtYmEyNTk3OWI3YTU5XkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOWUyZTNjMmQtM2ZjOS00Mzc1LTgzZTEtYmEyNTk3OWI3YTU5XkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Female student Farah got married to fulfill her desire to get heaven according to her beliefs. However, what she got was hell in her marriage. She realized that she was part of her husband's agreement with the devil for his big plan. Farah entered into a complicated situation: wanting to rebel and wanting to remain devoted to her husband in order to get heaven. A letter from Umi Hanum, her teacher, made Farah fight back and become a Woman Expert in Hell.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BOWUyZTNjMmQtM2ZjOS00Mzc1LTgzZTEtYmEyNTk3OWI3YTU5XkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Farishad I. Latjuba"], 
+           "cast": ["Febby Rastanty","Oka Antara","Ashira Zamita"],
+           "trailer": "rXQBOoKr198",
+           "genre": ["Horror"],
+           "year": "2025"
+            }, 
+           "video": "https://coco99.org/coco/new2/1239.mp4",
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
  {        
   "name": "Marco", 
   "category": "Special Request",
