@@ -51,6 +51,24 @@
            "drmkey": "edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02"
  }, 
  {      
+  "name": "Santet Segoro Pitu", 
+  "category": "Special Request",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTczOGUzOWYtOTY5OS00NjJjLTk4M2YtODhiYTkwZTg3ZTRlXkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTczOGUzOWYtOTY5OS00NjJjLTk4M2YtODhiYTkwZTg3ZTRlXkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Since his father found a mysterious package and heard the voices of a group of creepy tribes, Ardi and his family have experienced strange events. Sucipto, Marni, and Arif fell ill one by one. Ardi and his younger sister, Syifa, believe that this is a black magic attack and that they will both suffer the same fate. A high-level black magic from outside Java called Seven Seas Black Magic.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMTczOGUzOWYtOTY5OS00NjJjLTk4M2YtODhiYTkwZTg3ZTRlXkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Tommy Dewo"], 
+           "cast": ["Ari Irham","Sandrinna Michelle","Christian Sugiono"],
+           "trailer": "o3DyKARkeIU",
+           "genre": ["Horror"],
+           "year": "2024"
+            }, 
+           "video": "https://coco99.org/coco/new2/1239.mp4",
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
   "name": "Wanita Ahli Neraka", 
   "category": "Special Request",
   "info": { 
@@ -62,7 +80,7 @@
            "cast": ["Febby Rastanty","Oka Antara","Ashira Zamita"],
            "trailer": "rXQBOoKr198",
            "genre": ["Horror"],
-           "year": "2025"
+           "year": "2024"
             }, 
            "video": "https://coco99.org/coco/new2/1239.mp4",
            "drm": "clearkey", 
