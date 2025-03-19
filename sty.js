@@ -105,6 +105,24 @@
            "drmkey": ""
  }, 
  {        
+  "name": "Fateh", 
+  "category": "Special Request",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOTFhNWZmZDEtZGU3Zi00Njc2LTgzOTMtZTU4NWQzYTNlOGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOTFhNWZmZDEtZGU3Zi00Njc2LTgzOTMtZTU4NWQzYTNlOGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "plot": "Fateh, a mystery man who believes he has left his past behind him, devotes himself to starting a tranquil new life in Punjab. However, when a local girl falls victim to cyber mafia and goes missing in Delhi, he is unable to walk away. With his powerful skills, Fateh emerges from self-imposed retirement as an avenging angel, determined to bring down the entire cyber mafia syndicate.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BOTFhNWZmZDEtZGU3Zi00Njc2LTgzOTMtZTU4NWQzYTNlOGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "director": ["Sonu Sood"], 
+           "cast": ["Sonu Sood","Jacqueline Fernandez","Shivjyoti Rajput"],
+           "trailer": "_qC4mq13crc",
+           "genre": ["Action"],
+           "year": "2025"
+            }, 
+           "video": "https://bhar06302-2bcf.bhar06302.workers.dev/0:/ftehh.mp4",
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
   "name": "Marco", 
   "category": "Special Request",
   "info": { 
