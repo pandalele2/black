@@ -51,8 +51,26 @@
            "drmkey": "edb936d4bce718c67da95c5958bc6010:917975e1fac313e63a89dc7680326d02"
  }, 
  {      
+  "name": "Lembayung", 
+  "category": "Indonesia",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BZGE1NTA0NzAtNjJlOC00ZjMxLWJlOTItZjk5MDA5ZmRkNTBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BZGE1NTA0NzAtNjJlOC00ZjMxLWJlOTItZjk5MDA5ZmRkNTBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "plot": "Pica and Arum are nursing students who are about to undergo an internship at Lembayung Clinic, which has just opened since it was closed a long time ago. Rumor has it, there was a doctor who committed suicide several years ago. One night, a mysterious patient with a creepy smile came to the dental clinic, scaring Pica and Arum. What follows after that is a series of tragic deaths of the clinic staff, and the creepy patient that keeps haunting Pica and Arum. When Arum began to be possessed, Pica immediately tried to uncover the mystery of Lembayung Clinic before her friend became the next victim.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BZGE1NTA0NzAtNjJlOC00ZjMxLWJlOTItZjk5MDA5ZmRkNTBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "director": ["Baim Wong"], 
+           "cast": ["Taskya Namya","Yasamin Jasem","Arya Saloka"],
+           "trailer": "DKzKQtC7E3M",
+           "genre": ["Horror"],
+           "year": "2024"
+            }, 
+           "video": "https://fif235632-45cf.fif235632.workers.dev/0:/lbyg.mp4",
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+ {        
   "name": "Santet Segoro Pitu", 
-  "category": "Special Request",
+  "category": "Indonesia",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BMTczOGUzOWYtOTY5OS00NjJjLTk4M2YtODhiYTkwZTg3ZTRlXkEyXkFqcGc@._V1_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BMTczOGUzOWYtOTY5OS00NjJjLTk4M2YtODhiYTkwZTg3ZTRlXkEyXkFqcGc@._V1_.jpg", 
@@ -70,7 +88,7 @@
  }, 
  {        
   "name": "Wanita Ahli Neraka", 
-  "category": "Special Request",
+  "category": "Indonesia",
   "info": { 
            "poster": "https://m.media-amazon.com/images/M/MV5BOWUyZTNjMmQtM2ZjOS00Mzc1LTgzZTEtYmEyNTk3OWI3YTU5XkEyXkFqcGc@._V1_.jpg", 
            "bg": "https://m.media-amazon.com/images/M/MV5BOWUyZTNjMmQtM2ZjOS00Mzc1LTgzZTEtYmEyNTk3OWI3YTU5XkEyXkFqcGc@._V1_.jpg", 
