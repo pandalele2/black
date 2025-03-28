@@ -5395,7 +5395,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5411,7 +5411,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5427,7 +5427,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5443,7 +5443,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5459,7 +5459,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5475,7 +5475,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5491,7 +5491,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5507,7 +5507,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5523,7 +5523,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5539,7 +5539,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5555,7 +5555,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5571,7 +5571,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
@@ -5587,7 +5587,7 @@
                    "info": {
                            "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
-                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "plot": "Ok Chan-mi is a 19-year-old high school student. She used to be a shooter for a high school team. One day, Ok Chan-mi's twin brother dies. She chases after the truth related to her his death. She gets involved with Ji Soo-heon. On behalf of bullied students, Ji Soo-heon takes revenge on their tormentors.",
                            "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
                            "director": ["Ha Byung-hoon"], 
                            "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
