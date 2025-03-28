@@ -5380,7 +5380,7 @@
              },
     "seasons": [
         {
-          "name": "18 Again",
+          "name": "Revenge of Others",
           "info": {
                     "poster": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BMTI5Zjg0Y2MtODNiYS00YzQxLTkzZjgtMjQ4MDhhYWM5M2VkXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
