@@ -5369,7 +5369,239 @@
         }
     ]
 },
- {
+{ 
+    "name": "Revenge of Others",
+    "category": "Korea",
+    "info": {
+              "poster": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+              "director": ["Ha Byung-hoon"], 
+              "cast": ["Kim Ha-neul,Lee Do-hyun"],
+              "year": "2020"
+             },
+    "seasons": [
+        {
+          "name": "18 Again",
+          "info": {
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "backdrop": "https://m.media-amazon.com/images/M/MV5BMTI5Zjg0Y2MtODNiYS00YzQxLTkzZjgtMjQ4MDhhYWM5M2VkXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
+                    "director": ["Ha Byung-hoon"], 
+                    "cast": ["Kim Ha-neul,Lee Do-hyun"],
+                    "year": "2020"
+                    },
+          "episodes": [       
+               {
+                   "episode": 1,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP01.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 2,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP02.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 2,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP02.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 3,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP03.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 4,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP04.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 5,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP05.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 6,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP06.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 7,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP07.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 8,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP08.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 9,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP09.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 10,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP10.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 11,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP11.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                },
+             {
+                   "episode": 12,
+                   "name": "Revenge of Others",
+                   "info": {
+                           "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "bg": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "plot": "Ok Chanmi does not believe that her twin brother, Park Wonseok, committed suicide; Chanmi transfers to her brother's school, Yongtan High; a "hero" appears at Yongtan High, and Chanmi speculates that it may be connected to her brother.",
+                           "backdrop": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+                           "director": ["Ha Byung-hoon"], 
+                           "cast": ["Shin Ye-Eun,Lomon,Seo Ji-Hoon"],
+                           "year": "2022"
+                          },
+                   "video": "https://dikmot75-2e5d.dikmot75.workers.dev/0:/Revenge%20Of%20Others%20EP12.mp4", 
+                   "drm": "clearkey", 
+                   "drmkey": ""
+                }
+            ]
+        }
+    ]
+},
+{
     "name": "18 Again",
     "category": "Korea",
     "info": {
