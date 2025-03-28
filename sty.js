@@ -5382,7 +5382,7 @@
         {
           "name": "Revenge of Others",
           "info": {
-                    "poster": "https://m.media-amazon.com/images/M/MV5BNWZkYzk0YWEtZjE5ZC00MDFjLTg5M2MtNjVmNjUzZGU0OTIyXkEyXkFqcGc@._V1_QL100_UX500_.jpg",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNzc3MDgwMmEtOTU2MS00MGU4LWFjYWYtY2ExMDNiNGQ2MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
                     "backdrop": "https://m.media-amazon.com/images/M/MV5BMTI5Zjg0Y2MtODNiYS00YzQxLTkzZjgtMjQ4MDhhYWM5M2VkXkEyXkFqcGc@._V1_QL100_UX950_.jpg", 
                     "director": ["Ha Byung-hoon"], 
                     "cast": ["Kim Ha-neul,Lee Do-hyun"],
